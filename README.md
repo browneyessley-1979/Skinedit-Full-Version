@@ -231,3 +231,6 @@ This repository serves as the official landing page for SkinEdit. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SkinEdit today!**
+
+---
+**Last updated:** 2026-09-08 18:14:30 UTC
